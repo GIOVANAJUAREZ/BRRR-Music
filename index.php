@@ -33,6 +33,7 @@ if (isset($_SESSION['user_id'])) {
   <link href="estilos.css" rel="stylesheet">
 
   <title>BRRR Music</title>
+  <h1>lorenzo</h1>
 </head>
 
 <header>
